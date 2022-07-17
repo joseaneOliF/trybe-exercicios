@@ -1,0 +1,47 @@
+h1 {
+    font-size: 75px;
+    color: orangered;
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-style: italic  ;
+
+}
+
+.amarelo {
+    background-color: yellow;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+    line-height: 200%;
+
+}
+body {
+    font-size: 20px;
+    text-align: center;
+    
+}
+#blue {
+    background-color: blue;
+    text-decoration:overline;
+    text-align: center;
+    
+}
+#red {
+    background-color:   red;
+    text-decoration:underline;
+    text-align: justify;
+    
+}
+#black {
+    background-color: black;
+    text-decoration:line-through;
+    text-align: right;
+    
+}
+ul {
+    text-align: left;
+    font-weight: 600;
+    color: white 
+
+}
