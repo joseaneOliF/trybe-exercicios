@@ -1,0 +1,39 @@
+div.primárias:hover{
+    color: blue;
+    border: 5px solid black;
+}
+div.secundárias:hover{
+    color: green;
+    border: 5px solid black;
+
+}
+
+div.complementares:hover {
+    color: red;
+    border: 5px solid black;
+    padding: 35px;
+}
+
+div.escuras:hover {
+    color: brown;
+    border: 5px solid black;
+}
+
+div.claras:hover {
+    color: pink;
+    border: 5px solid black;
+}
+
+h3 {
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+p {
+    font-size: 25px;
+}
