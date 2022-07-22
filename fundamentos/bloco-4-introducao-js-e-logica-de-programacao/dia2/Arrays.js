@@ -45,9 +45,15 @@
 
 //console.log(menuServices);
 
-// Exercício 3
+//Exercício 2
 let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+let indexOfPortfolio = menu.indexOf('Portfólio');
 
-menu.push("contato");
+console.log(indexOfPortfolio);
 
-console.log(menu);
+// Exercício 3
+//let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+
+//menu.push("contato");
+
+//onsole.log(menu);
