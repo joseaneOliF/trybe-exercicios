@@ -206,3 +206,4 @@ let carA = {
 for (let key in carA){
   console.log(key, carA[key]);
 }
+
