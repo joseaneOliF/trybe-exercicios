@@ -35,6 +35,7 @@ main {
 }
 
 section {
+  display: flex;
 }
 
 figure {
@@ -52,7 +53,7 @@ figcaption {
   }
 
   figure {
-    width: 50%;
+    width: 45%;
     margin-right: 4.5%;
   }
 }
