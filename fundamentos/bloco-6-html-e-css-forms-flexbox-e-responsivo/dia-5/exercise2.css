@@ -17,10 +17,12 @@ p {
 }
 
 @media screen and (min-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  
-    .container {
-      flex-wrap: wrap;
-    }
+  body {
+    background-color: lightblue;
+    margin: 5px;
+  }
+
+  .container {
+    flex-wrap: wrap;
+  }
+}
